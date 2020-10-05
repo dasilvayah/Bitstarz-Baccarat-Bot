@@ -1,5 +1,7 @@
 # Bitstarz-Baccarat-Bot
 
+
+## Strategy of Bitstarz-Baccarat-Bot
 1. Set starting bet (X)
 2. Always bet Banker first (Bet X)
 3a. On win, bet same bet but on Player next.
