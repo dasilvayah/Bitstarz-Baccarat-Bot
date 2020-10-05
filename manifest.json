@@ -1,0 +1,26 @@
+{
+    "name": "Baccarat Bot",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Baccarat Bot",
+    "background": {
+      "scripts": [
+        "background.js"
+      ],
+      "persistent": true
+    },
+    "browser_action": {
+      "default_title": "Baccarat Bot"
+    },
+    "icons": {
+        "128": "img/128.png",
+        "16": "img/16.png",
+        "48": "img/48.png"
+     },
+    "permissions": [
+      "https://www.bitstarz.com/table-games/baccarat-vip",
+      "https://www.bitstarz.com/table-games/baccarat-vivogaming",
+      "tabs"
+    ]
+  }
+  
